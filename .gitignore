@@ -1,3 +1,8 @@
+.DS_Store
+*.json
+*.txt
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
